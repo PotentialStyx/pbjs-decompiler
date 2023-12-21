@@ -1,0 +1,6 @@
+# perf testing
+flamegraph*
+perf*
+
+out*.proto
+target
